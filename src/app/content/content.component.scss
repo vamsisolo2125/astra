@@ -1,0 +1,685 @@
+.luxary{
+    background-color: #F2F6F7;
+}
+.lux{
+    margin-top: 120px;
+}
+.lux h1{
+    color: black;
+}
+.image1{
+    display: flex;
+    width: 200px;
+    height: 30px;
+    margin-top: 60px;
+}
+.adarsh{
+    width: 307px;
+    margin-left: 12px;
+    color: #696969;
+}
+.fun i{
+    color: #696969;
+}
+.open{
+    border-left: 1px solid ;
+    margin-top: 25px;
+}
+.add{
+    margin-left: 10px;
+}
+span{
+    color: yellow;
+}
+.down{
+    display: flex;
+    
+    margin-top: 70px;
+   
+}
+.btn{
+    background: #003369;
+
+    width: 152px;
+    
+    color: #ffff;
+}
+.btn1{
+    background: rgba(0, 90, 53, 0.1);
+    width: 200px;
+    height: 38px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 0px;
+    color: #005A35;
+
+}
+.fun1 img{
+    margin-left: 21px;
+    margin-top: -10px;
+    width: 50px;
+}
+.lux1 img{
+    width: 779px;
+}
+.image{
+    position: relative;
+}
+.images{
+    position: absolute;
+    margin-top: -215px;
+    margin-left: 131px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 495px;
+}
+
+.images img{
+    height: 150px;
+    width: 150px;
+}
+// section luxary css upto this
+
+.enquire{
+    background-color: #003369;
+}
+#now{
+    color:#fff;
+    margin-top: 30px;
+}
+.forms{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 22px;
+    
+}
+input[type=text], select, textarea {
+    
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    margin-left: 25px;
+    background: #003369;
+  }
+  input[type=email], select, textarea {
+    
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    margin-left: 25px;
+    background: #003369;
+  }
+  input[type=tel], select, textarea {
+    
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    margin-left: 25px;
+    background: #003369;
+  }
+  .btn2{
+    background: linear-gradient(94.88deg, #CDA340 -9.69%, #FFB200 114.15%);
+    width: 132px;
+    margin-top: 30px;
+    border: 1px solid;
+    padding: 12px;
+color: #ffff;
+  }
+  
+//   input[type=submit] {
+//     background-color: #04AA6D;
+//     color: white;
+//     padding: 12px 20px;
+//     border: none;
+//     border-radius: 4px;
+//     cursor: pointer;
+//   }
+  
+//   input[type=submit]:hover {
+//     background-color: #45a049;
+//   }
+  
+
+// section enquiry css upto this
+
+
+.choose-us{
+    margin-top: 25px;
+    background: #ffff;
+}
+.us{
+    display: flex;
+    margin-top: 44px;
+}
+.us h1{
+    margin-top: 35px;
+}
+.check{
+    margin-left: -37px;
+}
+.check li{
+    list-style-type: none;
+    margin-top: 12px;
+}
+.check1 li{
+    list-style-type: none;
+    margin-top: 12px;
+}
+.check1{
+    margin-left: 40px
+}
+.btn3{
+    background: rgba(0, 51, 105, 0.1);
+    width: 100px;
+    height: 38px;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: 0px;
+    color: #003369;
+    margin-top: 65px;
+}
+.open1{
+    padding: 10px;
+    border-left: 1px solid ;
+    width: 500px;
+    background: #F2F6F7;
+    margin-top: 80px;
+}
+.open1 p{
+    color: #003369;
+}
+.v1{
+    position: relative;
+}
+.v2{
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 46px;
+}
+iframe{
+    height: 200px;
+    width: 300px;
+}
+
+// section desgin css upto this
+.call{
+    display: flex;
+}
+.btn4{
+    background: #003369;
+margin-left: 10px;
+    width: 152px;
+    border: 0px;
+    color: #ffff;
+    padding: 8px;
+}
+.qu{
+margin-top: 220px;
+padding: 4%;
+}
+.qu1 img{
+    position: absolute;
+    margin-top: -88px;
+}
+.question{
+    background-color: #F2F6F7;
+    position: relative;
+    margin-top: 10%;
+    
+}
+//  section question css upto this
+.abtcard{
+    display: flex;
+}
+.establish{
+    width: 200px;
+    padding: 30px;
+    
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.rooms{
+    display: flex;
+    width: 600px;
+    justify-content: space-evenly;
+}
+.establish2{
+    border-left: 1px solid;
+    
+}
+// .establish2,p,b{
+//     margin-left: 10px;
+// }
+
+.spacious{
+    margin-top: 5%;
+}
+
+.flex{
+    display: flex;
+    // margin-top: 91px;
+    flex-direction: row-reverse;
+}
+.flex1{
+   display: flex;
+   width: 70%;
+   flex-wrap: wrap;
+   height: 400px;
+   align-content: space-between;
+}
+
+.card1{
+   height: 49%;
+width: calc(50% - 10px);
+ background: red;
+ margin-top: 72px; 
+margin-left: 10px;
+box-sizing: border-box;   
+}
+.card2{
+height: 400px;
+width: 30%;
+// background: green;
+margin-top: 72px; 
+margin-left: 10px;
+}
+.card1 img{
+    width: 100%;
+}
+.card2 img{
+    width: 100%;
+}
+// up to this spactious css
+
+.viral{
+    margin-left: 6%;
+    height: 400px;
+    padding: 20px;
+}
+.virtual{
+    background: linear-gradient(0deg, #F2F6F7, #F2F6F7), rgba(0, 51, 105, 0.13);
+}
+.videos{
+    background-color: #003369;
+    height: 300px;
+    position: relative;
+}
+.viral1 iframe{
+    height: 500px;
+    width: 1000px;
+    position: absolute;
+    margin-top: -235px;
+    margin-left: 170px;
+}
+// virual css upto this
+
+.btn5{
+    background: rgba(0, 51, 105, 0.1);
+    width: 200px;
+    height: 38px;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: 0px;
+    color: #003369;
+    margin-top: 65px;
+}
+.bhk{
+    display: flex;
+    justify-content: center;
+}
+.bhk p{
+    margin-left: 30px;
+}
+.plan1 h3{
+color: #003369;
+}
+.plan1{
+    background:#F2F6F7;
+    padding: 16px;
+    width: 400px;
+    margin-top: 46px;
+    height: 450px;
+}
+.tel{display: flex;
+    justify-content: space-around;
+    /* margin-top: 14px; */
+    border-bottom: 1px solid #DFDFDF;}
+    .plan2{
+        margin-left: 5%;
+    }
+    // apartment css upto this
+    .neighbour{
+        background-color: #FFB200;
+        margin-top: 5%;
+    }
+    .nei{
+        padding: 20px;
+        margin-top: 60px;
+    }
+    .nei h5{
+        margin-top: 40px;
+    }
+    .minute{
+        border: 1px solid rgb(235, 233, 231);
+        margin-left: 10px;
+    }
+    .minute h3{
+        margin-top: 18px;
+        text-align: center;
+    }
+    .minute p{
+        text-align: center;
+    }
+    // neghibour css upto this
+
+    .specification{
+        // margin-top: 60px;
+        background-color: #F2F6F7;
+        padding: 16px;
+    }
+    .function{
+        display: flex;
+    }
+    .ele{
+        width: 250px;
+        /* text-align: center; */
+        border: 1px solid rgb(235, 233, 231);
+        height: 130px;
+        padding: 12px;
+    }
+.ele1{
+    width: 250px;
+    /* text-align: center; */
+    border: 1px solid rgb(235, 233, 231);
+    height: 130px;
+    padding: 12px;
+    margin-left: 10px;
+    
+}
+.ele3{
+    width: 250px;
+    /* text-align: center; */
+    border: 1px solid rgb(235, 233, 231);
+    height: 200px;
+    padding: 12px;
+   
+    margin-top: 10px;
+}
+.ele4{
+    width: 250px;
+    /* text-align: center; */
+    border: 1px solid rgb(235, 233, 231);
+    height: 130px;
+    padding: 12px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.btn6{
+    margin-top: 28px;
+    margin-left: 2px;
+    border: 0px;
+    background-color: #003369;
+    color: #ffff;
+    height: 54px;
+    width: 200px;
+}
+.spec{
+    margin-top: 84px;
+}
+// specfication css up to this.pro{
+    .pro{
+        margin-top: 8%;
+    }
+    .plans{
+        display: flex;
+    flex-direction: column;
+    }
+    .btn7{
+        margin-top: 28px;
+        margin-left: 2px;
+        border: 0px;
+        background-color: #FFFF;
+        color: black;
+        height: 70px;
+        width: 300px;
+        border: 1px solid;
+    }
+    .btn7:hover{
+background-color: #003369;
+color: rgb(235, 233, 231);
+    }
+    // progress1 css upto this
+    .unlock{
+        background-color: #F2F6F7;
+    }
+    .unlock1{
+        margin-top: 60px;
+    }
+    .unlock1 h2{
+        margin-top: 25px;
+    }
+    .unlock2{
+        margin-top: 70px;
+    }
+    .btn8{
+        background: #021528;
+    border: 0px;
+    border-radius: 100px;
+    padding: 3px;
+    width: 126px;
+    color: white;
+    }
+    th{
+        color: 
+        #BFBFBF;
+    }
+    // unlock css upto this
+    
+.slider{
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin: 50px 0px 50px 0px;
+    background: #ffff;
+}
+
+.item{
+    width: calc(100% / 10.8);
+    height: 200px;
+    position: relative;
+    // background-color: green;
+    color: #fff;
+    margin: 0 10px;
+    box-sizing: border-box;
+    width: 19.259259%;
+}
+
+.item span{
+    position: absolute;
+    margin: auto;
+    // left: 50%;
+    left: -4%;
+    right: 0;
+    // top: 50%;
+    top: 4%;
+    bottom: 0;
+}
+.next button{
+    position: absolute;
+    margin-left: 95%;
+    margin-top: -153px;
+    border: 0px;
+
+}
+.prev button{
+    margin-top: -153px;
+    position: absolute;
+    border: 0px;
+}
+.item img{
+    height: 183px;
+    width: 116px;
+
+}
+.item span{
+    margin-left: 70px;
+}
+
+    @media only screen and (max-width: 425px){
+        .navbar-brand{
+            margin-left: 0px;
+        }
+        .lux{
+            margin-top: 0px;
+        }
+        .image img{
+            width: 100%;
+        }
+        .images{
+            width: 0px;
+            margin-left: 54px;
+            margin-top: -103px;
+            justify-content: flex-start;
+
+        }
+        .images img{
+            width: 71px;
+            height: 91px;
+            margin-left: 10px;
+        }
+        .down{
+            margin-top: 0px;
+            padding: 12px;
+        }
+        .for{
+            padding: 12px;
+        }
+       form{
+           flex-direction: column;
+       }
+       .btn2{
+        margin-left: 73px;
+        width: 230px;
+        margin-top: 10px;
+       }
+       #now{
+           text-align: center;
+       }
+       .v1 img{
+           width: 100%;
+       }
+       iframe{
+        height: 100px;
+        width: 200px;
+       }
+       .v2{
+        margin-top: -186px;
+        margin-left: 0px;
+       }
+       .open1{
+           width: 363px;
+       }
+       .qu{
+           margin-top: 0px;
+       }
+       .qu1 img{
+        width: 347px;
+        margin-top: 30px;
+       }
+      .flex{
+        margin-top: 328px;
+      }
+      .flex1{
+        height: 280px;
+      }
+      .abtcard{
+          flex-direction: column;
+      }
+      .rooms{
+          width: 300px;
+      }
+      .top{
+          margin-top: 0px !important;
+      }
+      .viral{
+          margin-left: 0px;
+      }
+      .viral1 iframe{
+        height: 300px;
+        width: 250px;
+        position: absolute;
+        margin-top: -113px;
+        margin-left: 56px;
+      }
+      .plan2 img{
+          width: 300px !important;
+      }
+      .loc img{
+        width: 352px !important;
+      }
+      .minute{
+          margin-left: 0px;
+          margin-top: 10px;
+      }
+      .ele1{
+          margin-left: 0px;
+          margin-top: 10px;
+      }
+      .function{
+        display: inherit;
+      }
+      .ele4{
+          margin-left: 0px;
+      }
+      .ece img{
+        width: 346px !important;
+        margin-top: 114px;
+        margin-left: -25px;
+      }
+      .pro{
+          margin-top: 100px !important;
+      }
+      .pro img{
+        width: 350px;
+      }
+      .item{
+    
+        position: absolute;
+      
+    }
+    .next button{
+        position: relative;
+        margin-left: 70%;
+        margin-top: -153px;
+        border: 0px;
+    
+    }
+    .prev button{
+        margin-top: 4px;
+        position: absolute;
+       
+    }
+    .next button img{
+        margin-top: 154px;
+        position: absolute;
+        margin-left: -52px;
+    }
+    .prev button img{
+        position: absolute;
+    }
+    .item img{
+        height: 110px;
+    }
+      }
