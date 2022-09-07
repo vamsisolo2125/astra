@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
 import * as THREE from 'three';
 
@@ -8,6 +8,7 @@ import * as THREE from 'three';
   styleUrls: ['./content.component.scss']
 })
 export class ContentComponent implements OnInit {
+  @Input() parentName!: string
 model:any={}
 public verify!: object
 onsubmit(form:NgForm){
